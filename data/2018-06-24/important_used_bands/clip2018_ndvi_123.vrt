@@ -1,0 +1,132 @@
+<VRTDataset rasterXSize="1216" rasterYSize="649">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["WGS 84 / UTM zone 10N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-123],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32610"]]</SRS>
+  <GeoTransform>  5.6479500000000000e+05,  3.0000000000000000e+01,  0.0000000000000000e+00,  5.0633850000000000e+06,  0.0000000000000000e+00, -3.0000000000000000e+01</GeoTransform>
+  <VRTRasterBand dataType="UInt16" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_COUNT">412708.000000</MDI>
+      <MDI key="STATISTICS_COVARIANCES">240602.1102072716,237685.2657578051,218515.8489419894,-9.286539589925683</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">21547</MDI>
+      <MDI key="STATISTICS_MEAN">8439.9556248</MDI>
+      <MDI key="STATISTICS_MEDIAN">8431.741176</MDI>
+      <MDI key="STATISTICS_MINIMUM">6814</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">490.51208976668</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>6814</HistMin>
+        <HistMax>21547</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2|0|1|1|10|36|303|1067|2744|2140|1784|1681|1722|1973|2309|3483|8458|14433|18371|17390|14394|13118|12926|13474|13964|14586|15344|17087|19684|21377|22537|22593|22485|20611|17665|14710|11895|9191|7094|5541|4248|3559|3086|2427|1907|1549|1262|1092|875|724|616|489|381|339|296|232|202|158|113|109|97|78|66|63|32|49|38|39|29|26|30|29|15|13|12|13|14|7|6|8|9|6|6|5|10|3|4|5|3|6|3|0|4|1|2|4|3|2|4|3|4|2|1|7|1|1|1|4|4|2|2|2|0|0|0|1|2|0|3|1|1|4|0|1|0|1|1|0|1|1|0|1|1|3|2|2|1|1|0|0|0|0|0|0|0|0|1|0|2|2|0|0|2|0|0|2|0|1|1|1|1|1|0|0|1|0|1|1|1|0|0|0|0|0|1|0|0|0|0|1|1|0|0|0|0|0|0|1|0|3|0|2|0|0|0|1|1|2|0|0|1|0|0|0|1|0|0|0|1|0|0|0|0|1|0|1|0|0|0|0|1|1|0|0|1|0|3|0|2|2|0|1|0|1|2|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|1|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="1">2018_clippedB1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SrcRect xOff="0" yOff="0" xSize="1216" ySize="649" />
+      <DstRect xOff="0" yOff="0" xSize="1216" ySize="649" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_COUNT">412708.000000</MDI>
+      <MDI key="STATISTICS_COVARIANCES">237685.2657578051,243438.9318357558,232912.4270451053,-12.80412560244264</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">24180</MDI>
+      <MDI key="STATISTICS_MEAN">8444.2124116808</MDI>
+      <MDI key="STATISTICS_MEDIAN">8415.741176</MDI>
+      <MDI key="STATISTICS_MINIMUM">7001</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">493.3953099045</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>7001</HistMin>
+        <HistMax>24180</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2|0|1|6|37|1002|2331|2387|2545|2842|2954|4856|11189|22471|26111|22334|20361|19342|19589|20685|22425|24372|25101|24381|23663|20437|17575|14698|11583|9054|6993|5455|4584|3825|3063|2440|2083|1729|1342|1179|924|772|610|527|448|350|274|232|181|158|133|121|91|84|64|63|51|39|44|46|29|41|35|21|34|16|17|10|12|13|14|11|6|6|6|11|9|4|3|6|4|5|4|3|4|2|7|0|3|6|2|4|4|3|2|5|1|1|2|4|6|0|0|3|1|1|0|0|1|1|1|2|2|3|3|0|1|3|0|0|0|0|0|0|4|0|2|0|0|0|0|1|0|2|0|1|0|0|2|1|2|1|1|1|2|0|0|0|0|1|0|1|0|1|1|0|1|1|0|0|0|1|1|1|2|0|0|0|0|0|2|0|1|3|0|0|0|0|0|1|0|0|0|0|1|0|0|0|0|1|1|1|0|1|0|0|1|1|0|1|2|0|1|0|0|0|0|0|0|0|2|0|0|1|0|0|0|1|0|1|0|1|0|0|0|0|0|0|1|2|4|2|1|1|1|0|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="1">2018_clippedB2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SrcRect xOff="0" yOff="0" xSize="1216" ySize="649" />
+      <DstRect xOff="0" yOff="0" xSize="1216" ySize="649" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_COUNT">412708.000000</MDI>
+      <MDI key="STATISTICS_COVARIANCES">218515.8489419894,232912.4270451053,295110.0662603804,13.54980044270639</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">27935</MDI>
+      <MDI key="STATISTICS_MEAN">8916.7662608916</MDI>
+      <MDI key="STATISTICS_MEDIAN">8766.811765</MDI>
+      <MDI key="STATISTICS_MINIMUM">7311</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">543.2403393162</MDI>
+    </Metadata>
+    <NoDataValue>0</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>7311</HistMin>
+        <HistMax>27935</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>3|35|67|90|134|385|1674|2846|3946|4519|6152|6531|9694|14012|20413|28430|35630|38808|38158|34651|29482|24153|20207|16008|12739|10430|8150|6895|5743|4958|4375|3774|3286|2873|2457|2121|1720|1379|1083|841|682|537|390|328|249|187|145|127|113|93|85|72|75|60|57|56|45|35|34|38|32|16|19|26|22|22|23|18|14|9|12|11|6|9|6|7|5|8|4|9|9|6|9|4|4|3|1|3|3|1|1|1|4|5|1|1|4|3|4|0|3|1|3|0|3|0|1|1|2|3|2|1|2|1|1|1|0|0|1|1|1|1|1|2|1|0|0|0|0|0|0|1|3|0|0|0|0|0|1|1|0|0|0|2|0|3|1|2|1|0|2|0|1|1|2|1|1|0|1|0|0|0|0|0|1|0|2|0|2|0|1|1|2|0|0|0|0|1|0|0|1|0|0|1|0|0|0|1|0|0|0|0|2|1|0|0|1|2|0|1|0|0|2|0|1|2|1|0|0|0|0|1|0|0|1|1|0|0|0|0|0|1|1|1|1|1|0|2|1|1|0|1|0|2|1|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="1">2018_clippedB3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SrcRect xOff="0" yOff="0" xSize="1216" ySize="649" />
+      <DstRect xOff="0" yOff="0" xSize="1216" ySize="649" />
+      <NODATA>0</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="4">
+    <Metadata>
+      <MDI key="STATISTICS_COUNT">412708.000000</MDI>
+      <MDI key="STATISTICS_COVARIANCES">-9.286539589925683,-12.80412560244264,13.54980044270639,0.02064728053670962</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.57983958721161</MDI>
+      <MDI key="STATISTICS_MEAN">0.21934670006571</MDI>
+      <MDI key="STATISTICS_MEDIAN">0.229555</MDI>
+      <MDI key="STATISTICS_MINIMUM">-0.21768344938755</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.14369161609749</MDI>
+    </Metadata>
+    <NoDataValue>-3.4028234663852886e+38</NoDataValue>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.2176834493875504</HistMin>
+        <HistMax>0.5798395872116089</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>3|3|7|7|4|4|10|4|5|2|2|2|2|2|1|5|3|1|1|1|3|1|2|0|1|4|2|1|1|1|1|0|1|0|1|1|0|1|0|1|3|1|0|4|1|3|3|4|4|3|3|4|7|21|37|64|85|120|130|230|341|525|2890|4129|8050|10284|7158|3898|2138|741|425|248|199|169|168|131|164|173|167|277|516|1180|1939|2772|3344|3844|4079|4354|4274|4220|4204|4175|3929|3900|3719|3724|3515|3517|3414|3209|3167|3047|2841|2758|2709|2670|2551|2475|2405|2376|2401|2317|2267|2232|2181|2174|2079|2112|2082|1949|2057|2095|1987|2026|1995|2002|2003|1962|1922|1946|1895|1856|2022|1905|1924|1963|1904|2014|1942|1910|1958|1970|1976|1928|2043|2016|1997|1970|2016|2038|2070|2119|2132|2165|2290|2291|2241|2270|2360|2507|2614|2774|2842|2823|2912|3130|3123|3146|3202|3203|3310|3271|3453|3501|3600|3805|3911|3920|4070|4139|4393|4221|4409|4351|4381|4278|4196|4162|4103|3940|3844|3682|3598|3488|3250|3055|2923|2654|2543|2330|2166|2099|1939|1755|1636|1547|1421|1281|1127|1044|952|935|928|818|844|815|771|725|678|608|639|597|562|493|486|404|404|374|371|333|310|248|234|222|200|133|149|114|94|80|65|59|32|23|9|13|8|3|3|3|0|1|1|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <ComplexSource resampling="nearest">
+      <SourceFilename relativeToVRT="1">2018_clippedNDVI.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SrcRect xOff="0" yOff="0" xSize="1216" ySize="649" />
+      <DstRect xOff="0" yOff="0" xSize="1216" ySize="649" />
+      <NODATA>-3.4028234663852886e+38</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
