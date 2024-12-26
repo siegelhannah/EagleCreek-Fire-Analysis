@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="randompoints_layer.schema">
+      <SimpleField name="id" type="int"/>
+    </Schema>
+    <Document id="randompoints_layer">
+      <name>randompoints_layer</name>
+      <Placemark id="randompoints_layer.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.835221000176,45.6198620603798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.946842300986,45.551978065422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.853171242508,45.6857556840311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.055882317981,45.6217753359397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.784713608341,45.6719217153611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">5</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.941997997701,45.6728759261669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">6</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.805386709504,45.6585535763028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">7</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.973272973098,45.5964059318378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.024445514762,45.5762552030615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.034101453486,45.5880429454266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">10</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.964693897412,45.5852516480162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">11</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.794024398776,45.6259931314798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">12</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.813928472522,45.6925730172595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">13</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.844360014524,45.6863098524222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">14</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.092935540247,45.5878372473008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">15</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.0317500564,45.6002312820827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">16</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.019154632134,45.6035177924546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">17</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.809341172733,45.571568065545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">18</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.995440099922,45.6109301013994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">19</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.899920521917,45.6258260108823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">20</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.800692307862,45.657073583521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">21</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.744937900663,45.6579892021218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">22</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.882850382787,45.6709610052111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">23</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.780310019959,45.7016482877765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">24</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.805247012749,45.6029672188659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">25</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.864438632562,45.5778991343358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">26</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.815747763428,45.7151535156908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">27</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.135759020291,45.566860256867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">28</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.844421304777,45.6484361646264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">29</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.756382309172,45.6969871512151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">30</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.71876995245,45.693510600931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">31</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.864157936556,45.6684707653821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.33">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">32</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.117402727761,45.5867610157051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.34">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">33</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.844684950652,45.5562771864022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.35">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">34</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.800696525999,45.6958511665492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.36">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">35</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.800806757956,45.6449969356236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.37">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">36</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.038560984038,45.6074090109564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.38">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">37</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.059670482963,45.6088341536415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.39">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">38</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.085178353005,45.5902095153758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.40">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">39</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.846660769683,45.6223160521503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.41">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">40</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.922983738771,45.6717876608769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.42">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">41</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.811482368516,45.6353698244444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.43">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">42</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.977533467676,45.5689182760775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.44">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">43</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.883637427428,45.6701810029396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.45">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">44</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.059713807364,45.5715366884702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.46">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">45</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.888089801158,45.5729566492354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.47">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">46</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.760191222119,45.7089037821914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.48">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">47</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.096239956559,45.5710936150978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.49">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">48</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.948412884796,45.5635230678647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.50">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">49</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.952886763887,45.589617360193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.51">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">50</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.006942660241,45.5988205007265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.52">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">51</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.946667900029,45.5898851193224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.53">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">52</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.077877006172,45.5882886388678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.54">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">53</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.962464361591,45.6261904190074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.55">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">54</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.839974754077,45.6628864582267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.56">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">55</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.071629647187,45.5770818046509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.57">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">56</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.997604866824,45.5983819300868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.58">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">57</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.871544949069,45.5928687960176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.59">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">58</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.122869831059,45.561761120858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.60">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">59</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.98159606296,45.6501128599896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.61">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">60</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.926154374654,45.5644680421102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.62">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">61</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.898165252826,45.5644004706567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.63">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">62</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.949684660272,45.5793852254716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.64">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">63</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.79305767593,45.6840276158911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.65">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">64</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.768909240902,45.7039803134942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.66">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">65</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.740029412784,45.6538497746166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.67">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">66</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.860873638685,45.6315161424829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.68">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">67</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.767350425668,45.6737755192023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.69">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">68</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.894982827309,45.664470339387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.70">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">69</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.839156887235,45.6948921073055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.71">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">70</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.734095629916,45.6727282001461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.72">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">71</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.948364214435,45.5927276412496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.73">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">72</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.855311286925,45.704978775073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.74">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">73</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.999928559072,45.581926627452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.75">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">74</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.90474109345,45.6105644086531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.76">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">75</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.832026478311,45.5821039627165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.77">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">76</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.005969728072,45.6005027534744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.78">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">77</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.97962183947,45.6478544379127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.79">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">78</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.864582529643,45.5524647841962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.80">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">79</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.73932393622,45.6847246288747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.81">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">80</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.813384619936,45.6730516336742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.82">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">81</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.820075205691,45.5953450983118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.83">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">82</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.926813036074,45.5735292670836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.84">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">83</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.018671691572,45.5966800900866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.85">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">84</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.891925978518,45.5684459408969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.86">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">85</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.030480712876,45.5785390589939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.87">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">86</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.854530283732,45.6257460752115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.88">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">87</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.835068201508,45.6047532340114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.89">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">88</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.909127598426,45.5561119020339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="randompoints_layer.90">
+        <ExtendedData>
+          <SchemaData schemaUrl="#randompoints_layer.schema">
+            <SimpleData name="id">89</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.861147411435,45.6251271370822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
